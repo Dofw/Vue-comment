@@ -1,8 +1,11 @@
 /**
  * 分析：
+ *  1. 为 Vue 安装全局 Api
+ *      import {init GlobalAPI } from './global-api/index'
  *
+ *  2. 有关SSR渲染的东西？
  *
- *
+ *  导出 Vue
  */
 
 import Vue from "./instance/index";
